@@ -1,5 +1,3 @@
-"use client";
-
 import { navItems } from "@/data";
 
 import Hero from "@/components/Hero";
